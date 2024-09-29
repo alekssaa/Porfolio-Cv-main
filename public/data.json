@@ -1,0 +1,92 @@
+{
+    
+    "projects":[ 
+
+    {"id":1,
+    "name": "Apple iPhone15 web sajt",
+    "description": "iPhone 15 web sajt napravljen sa ciljem sticanja znanja iy oblasti GSAP-a i THREE.js", 
+    "technologies":["Recat, " , "Tailwind CSS, ", "GSAP, ", " THREE.js, ",  "JavaScript, "],
+    "img":"./image/iphone.jpg",
+    "url": "https://github.com/alekssaa/Apple_website"
+    },
+
+    {"id":2,
+    "name": "Brainwave",
+    "description": "Sajt namjenjen za sticanje noviog iskustva sa Tailwindom i GSAP-om", 
+    "technologies":["Recat, " , "Vite, ", "Tailwind CSS,", "JavaScript, "],
+    "url":"https://github.com/alekssaa/Brainwave",
+    "img":"./image/brainwaveimg.JPG"
+    },
+    {
+
+            "id":3,
+            "name": "Web sop",
+            "description": "WEB shop namjenjen za prodaju raznih proizvoda", 
+            "technologies":["Recat, " , "CSS, ", "HTML, ", "JavaScript, "],
+            "img":"./image/shop.jpg",
+            "url": "https://github.com/alekssaa/Shop"
+        },
+        {
+            "id":4,
+            "name": "ExpenseTracker",
+            "description": "Aplikacija namjenjena za praćenje troškova", 
+            "technologies":["Recat, " , "CSS, ", "HTML, ", "JavaScript, "],
+            "img":"./image/ExpenseTracker.jpg",
+            "url": "https://github.com/alekssaa/expense-tracker"
+            
+            },
+            {
+                "id":5,
+                "name": "Menu",
+                "description": "Menu za restoran sa izborom raznih jela", 
+                "technologies":["Recat, " , "CSS, ", "HTML, ", "JavaScript, "],
+                "img":"./image/menu.jpg",
+                "url": "https://github.com/alekssaa/Menu/tree/main/menu%20-%20setup"
+                
+                }, 
+            {
+                "id":6,
+                "name": "JS projekti",
+                "description": "Ostali projekti koje sam radio", 
+                "technologies":["Recat, " , "CSS, ", "HTML, ", "JavaScript, "],
+                "img":"./image/JS.jpg",
+                "url":"https://github.com/alekssaa/Vjezba-projekti-JS/tree/main/vjezba%20projekti"
+            },
+            {
+                "id":7,
+                "name": "Todo list",
+                "description": "Podsjetnik, spisak obaveza ", 
+                "technologies":["Recat, " , "CSS, ", "HTML, ", "JavaScript, "],
+                    "img":"./image/todo.jpg",
+                    "url":"https://github.com/alekssaa/Todo"
+            },
+         {"id":8,
+            "name": "portfolio web sajt",
+            "description": "potfolio web sajt namjenjen za prezentaciju do sada stecenog znanja", 
+            "technologies":["Recat, " , "CSS, ", "Bootstrap, ", "HTML, ", "JavaScript, "],
+            "img":"./image/portfolio.jpg"
+        }
+            ],  
+
+
+
+    "companies":[
+        {
+            "id": 1,
+            "name": "Cablex",
+            "logo": "./image/cablex.png",
+            "position": "Razrez",
+            "period": "Feb 2021 -",
+            "description":"dodati osnvni opis posla"
+        }, 
+        {
+            "id": 2,
+            "name": "Mtel",
+            "logo": "./image/mtel.jpg",
+            "position": "Prodaja ",
+            "period": "Avg 2019 - feb - 2021",
+              "description":"dodati osnvni opis posla"
+        }
+    
+    ]
+}
